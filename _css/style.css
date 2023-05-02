@@ -1,0 +1,18 @@
+h1, p{
+    text-align: center;
+    color: aliceblue;
+    font-family: cursive;
+}
+body{
+    background-color: black;
+}
+form{
+    background: linear-gradient(rgb(17, 0, 255), rgb(11, 119, 241));
+}
+#nascimento{
+    width: 180px;
+    display: inline-block;
+}
+botton{
+    text-align: center;
+}
